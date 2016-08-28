@@ -38,3 +38,11 @@ downloads and installs a precompiled arm tcpdump binary.
 #### example
 
 `./install-tcpdump.sh`
+
+### install-strace.sh
+
+installs a precompiled strace binary.
+
+#### example
+
+`./install-strace.sh`
